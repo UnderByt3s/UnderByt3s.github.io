@@ -4,8 +4,10 @@ main-body {
   font-weight: 400;
   font-style: normal;
   background-color: #f0f4f8;
+  color: #333;
+  margin: 0;
   padding: 20px;
-
+  line-height: 1.6;
 }
 
 
