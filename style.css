@@ -1,4 +1,4 @@
-.main-body {
+main-body {
   font-family: "Roboto Mono", monospace;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -9,16 +9,16 @@
 }
 
 
-.h1 {
+h1 {
     color: #1a73e8;
 }
 
 
-.a {
+a {
     color: #1a73e8;
     text-decoration: none;
     margin-right: 10px;
 }
-.a:hover {
+a:hover {
     text-decoration: underline;
 }
