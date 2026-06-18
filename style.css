@@ -4,3 +4,19 @@
   font-weight: 400;
   font-style: normal;
 }
+
+
+h1 {
+    color: #1a73e8;
+}
+
+
+Text-hyperlink {
+    color: #1a73e8;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+hover {
+    text-decoration: underline;
+}
